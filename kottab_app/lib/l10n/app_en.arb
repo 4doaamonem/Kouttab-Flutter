@@ -1,4 +1,15 @@
 {
     "@@locale": "en",
-    "greeting":"Hi"
+    "greeting":"Hi",
+    "learn_tajweed":"Learn Tajweed",
+    "on_boarding_desc1":"Learn the rules of Tajweed through structured educational paths.",
+    "skip":"Skip",
+    "tajweed_quran":"Tajweed Quran",
+    "on_boarding_desc2":"Explore a reading experience that helps you become familiar with Tajweed markings.",
+    "next":"Next",
+    "placement_test_and_plan":"Placement Test and Plan",
+    "on_boarding_desc3":"Identify your starting point and organize your learning steps.",
+    "challenges":"Challenges",
+    "on_boarding_desc4":"Apply what you have learned through the available educational challenges.",
+    "discover_kouttab":"Discover Kouttab"
 }

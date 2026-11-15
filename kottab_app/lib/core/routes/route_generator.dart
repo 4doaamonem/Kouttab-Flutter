@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:kottab_app/core/routes/app_routes.dart';
+import 'package:kottab_app/features/auth/login/presentation/views/screens/login_screen.dart';
+import 'package:kottab_app/features/home/presentation/views/screens/home_screen.dart';
+import 'package:kottab_app/features/onboarding/presentation/views/screens/on_boarding_screen.dart';
 import 'package:kottab_app/features/splash/presentation/views/screens/splash_screen.dart';
 
 class RouteGenerator {
@@ -7,6 +10,12 @@ class RouteGenerator {
     switch(settings.name){
       case AppRoutes.splash:
         return MaterialPageRoute(builder: (context) => const SplashScreen(),);
+      case AppRoutes.onBoarding:
+        return MaterialPageRoute(builder: (context) => const OnBoardingScreen(),); 
+      case AppRoutes.login:
+        return MaterialPageRoute(builder: (context) => const LoginScreen(),); 
+      case AppRoutes.home:
+        return MaterialPageRoute(builder: (context) => const HomeScreen(),);  
       default:
         return unDefinedRoute();
     }
