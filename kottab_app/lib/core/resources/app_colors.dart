@@ -8,4 +8,8 @@ abstract class AppColors{
   static const Color blackColor=Color(0XFF262626);
   static const Color whiteColor=Color(0XFFFFFFFF);
   static const Color darkGreySkipColor=Color(0XFF4D5653);
+  static const Color darkGreyTextColor=Color(0XFF66736F);
+  static const Color redColor=Color(0XFFB00020);
+  static const Color textFieldBorderColor=Color(0XFFDDD8CA);
+  static const Color goldenColor=Color(0XFFC6A15B);
 }

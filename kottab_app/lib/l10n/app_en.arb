@@ -11,5 +11,21 @@
     "on_boarding_desc3":"Identify your starting point and organize your learning steps.",
     "challenges":"Challenges",
     "on_boarding_desc4":"Apply what you have learned through the available educational challenges.",
-    "discover_kouttab":"Discover Kouttab"
+    "discover_kouttab":"Discover Kouttab",
+    "required_field":"This Field is requied",
+    "valid_email":"Enter a valid email",
+    "valid_password":"Enter a valid password",
+    "passwords_mismatch":"Passwords not matching",
+    "valid_user_name":"Enter a valid user name",
+    "login":"Login",
+    "login_greeting":"Welcome back; continue your journey with the Holy Quran.",
+    "email":"E-mail",
+    "enter_your_email":"Enter your email address",
+    "password":"Password",
+    "enter_password":"Enter the password",
+    "forgot_password_question":"Forgot your password?",
+    "or":"Or",
+    "continue_with_google":"Continue with Google account",
+    "do_not_have_account":"Don't have an account?",
+    "create_new_account":"Create a new account"
 }
